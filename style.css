@@ -1,0 +1,8 @@
+iframe {
+    border: 1px solid black;
+    width: 100%; /* takes precedence over the width set with the HTML width attribute */
+  }
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+}

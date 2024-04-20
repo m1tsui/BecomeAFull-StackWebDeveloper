@@ -1,4 +1,6 @@
-
+#Directoryes
+dir_to_ignore/
+proovid
 
 # Compiled class file
 *.class
